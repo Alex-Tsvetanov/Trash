@@ -1,0 +1,5 @@
+﻿ORDER Pesho Stamat
+ORDER Stamat Penka
+ORDER Gosho Pesho
+REMOVE Gosho
+ANSWER ME
